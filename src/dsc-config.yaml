@@ -1,0 +1,13 @@
+Blockchain:
+  ip: 127.0.0.1
+  port: 5002
+Metronome:
+  ip: 127.0.0.1
+  port: 5004
+Pool:
+  ip: 127.0.0.1
+  port: 5001
+Validator:
+  proof_type: pow
+Wallet:
+  public_key: rzqEgEXVfRemqrsgjUuKdrqRqkuFxcoT5UQZnUKH6YUJPGhZL
